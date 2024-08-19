@@ -19,6 +19,7 @@ After downloaoding the Ubuntu server image straight from Ubuntu and burning to S
 <br><br>
 Out of all the boards I would say this one took the least amount of time. The BPI-F3 took a month to get going. The Sipeed laptop is now back to default.  That's a work in progress.
  
-
+<br>
+Download the Ubuntu [Image](https://cdimage.ubuntu.com/releases/noble/release/ubuntu-24.04-preinstalled-server-riscv64.img.xz) Ubuntu 24.04 to the NVME  (NOTE: you will lose all your data) <br> 
 
 
