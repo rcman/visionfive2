@@ -21,6 +21,6 @@ Out of all the boards I would say this one took the least amount of time. The BP
  
 <br>
 <br>
-Download the Ubuntu [Image](https://cdimage.ubuntu.com/releases/noble/release/ubuntu-24.04-preinstalled-server-riscv64.img.xz) Ubuntu 24.04 to the NVME  (NOTE: you will lose all your data) <br> 
+Download the Ubuntu [Image](https://cdimage.ubuntu.com/releases/noble/release/ubuntu-24.04-live-server-riscv64.img.gz) Ubuntu 24.04 to the NVME  (NOTE: you will lose all your data) <br> 
 
 
