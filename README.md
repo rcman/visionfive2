@@ -9,7 +9,7 @@ You need to dig on the internet just to find out how this board boots. <br>
 <br>
 Downloading an older image just to get it to boot and then you need to update the firmware, like they couldn't do that before they sold it.  How lazy!
 <br>
-Downloaded the Ubuntu image from Ubuntu.com for this board thinking it that's all I needed to do, NOPE!
+Downloaded the Ubuntu image from Ubuntu.com for this board is all I needed? NOPE!
 <br>
 <br>
 
