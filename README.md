@@ -15,10 +15,9 @@ Downloaded the Ubuntu image from Ubuntu.com for this board is all I needed? NOPE
 
 # Update Aug 19th
 <br>
-After downloaoding the Ubuntu server image straight from Ubuntu and burning to SD sard it booted. The preinstalled image didn't seem to work from SD car. I  then imaged the new image to m.2, left the switched the same for booting from sd card and bingo. It boots from sd card but makes root(/) the nvme. pretty fast now.
+After downloaoding the Ubuntu server image, burning to Micro SD card - it booted. The preinstalled image didn't seem to work. I imaged the new image to m.2 drive, left the jumper settings the same and bingo. It boots from sd card makes root(/) the nvme. 
 <br><br>
-Out of all the boards I would say this one took the least amount of time. The BPI-F3 took a month to get going. The Sipeed laptop is now back to default.  That's a work in progress.
- 
+Out of all my current boards,  I would say this one took the least amount of time. The BPI-F3 took over a month to get going. The Sipeed laptop is now back to default, I managed to get it imaged with a nice version of Debian.  
 <br>
 <br>
 Download the Ubuntu [Image](https://cdimage.ubuntu.com/releases/noble/release/ubuntu-24.04-live-server-riscv64.img.gz) Ubuntu 24.04 to the NVME  (NOTE: you will lose all your data) <br> 
