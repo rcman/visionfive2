@@ -24,4 +24,4 @@ Out of all the boards I would say this one took the least amount of time. The BP
 Download the Ubuntu [Image](https://cdimage.ubuntu.com/releases/noble/release/ubuntu-24.04-live-server-riscv64.img.gz) Ubuntu 24.04 to the NVME  (NOTE: you will lose all your data) <br> 
 
 
-![desktop](https://github.com/user-attachments/assets/a2eea109-ad51-4ef2-9005-8b2edb165e5d)
+
