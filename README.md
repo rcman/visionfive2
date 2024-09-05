@@ -24,4 +24,6 @@ Download the Ubuntu [Image](https://cdimage.ubuntu.com/releases/noble/release/ub
 
 
 ![image_67223809](https://github.com/user-attachments/assets/54a324f8-311c-488b-94a9-dd0856c71e20)
-
+<br>
+<br>
+https://wiki.ubuntu.com/RISC-V/StarFive%20VisionFive%202
