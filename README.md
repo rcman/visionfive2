@@ -1,4 +1,4 @@
-# visionfive2
+# visionfive2 IMPORTANT NOTE: You need to running sufficient power or the board will not work. Running a type C cable from a PC is not enough!
 
 I'll be putting my notes and development from this board on here.
 <br>
