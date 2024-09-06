@@ -2,7 +2,7 @@
 
 I'll be putting my notes and development from this board on here.
 <br>
-# Crap Documentation again!
+# Ubuntu 24.04 running from NVME on my Star Five Vision 2  
 
 <br>
 You need to dig on the internet just to find out how this board boots. <br>
