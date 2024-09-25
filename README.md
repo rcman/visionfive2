@@ -31,5 +31,10 @@ Download the Ubuntu [Image](https://cdimage.ubuntu.com/releases/noble/release/ub
 https://wiki.ubuntu.com/RISC-V/StarFive%20VisionFive%202
 <br><br>
 ![Screenshot from 2024-09-15 18-13-33](https://github.com/user-attachments/assets/60497c29-ec90-4b0b-a9b3-93cd56dcbea6)
+<br>
+What I am running now! And HDMI works!
+<br>
+https://rvspace.org/en/project/VisionFive2_Debian_Wiki_202302_Release
+
 
 
