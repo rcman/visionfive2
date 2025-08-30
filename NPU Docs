@@ -1,0 +1,9 @@
+NPU Notes
+
+sudo apt install libpocl2 libpocl2-common pocl-opencl-icd
+
+
+franco@ubuntu:~/kernel/linux-6.17-rc3$ clinfo -l
+Platform #0: Portable Computing Language
+ `-- Device #0: cpu
+franco@ubuntu:~/kernel/linux-6.17-rc3$
