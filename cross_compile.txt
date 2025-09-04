@@ -1,1 +1,11 @@
 git clone https://github.com/riscv/riscv-gnu-toolchain
+
+
+git clone https://github.com/riscv/riscv-gnu-toolchain
+
+Installation (Newlib)
+
+To build the Newlib cross-compiler, pick an install path (that is writeable). If you choose, say, /opt/riscv, then add /opt/riscv/bin to your PATH. Then, simply run the following command:
+
+./configure --prefix=/opt/riscv
+make
